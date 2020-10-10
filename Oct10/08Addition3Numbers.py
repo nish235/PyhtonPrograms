@@ -1,0 +1,5 @@
+a = input('Enter The 1st Number : ')
+b = input('Enter The 2nd Number : ')
+c = input('Enter The 3rd Number : ')
+x = int(a) + int(b) + int(c)
+print('Sum Of The Numbers Is : ', x)
