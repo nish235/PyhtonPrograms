@@ -1,0 +1,5 @@
+a = input('Enter The 1st Number : ')
+b = input('Enter The 2nd Number : ')
+c = input('Enter The 3rd Number : ')
+x = int(a) + int(b) + int(c)
+print('The sum of {0}, {1} and {2} is {3}'.format(a, b, c, x))
