@@ -1,0 +1,5 @@
+x = set(["a", "b", "c", "d", "e"])
+y = set(["b", "a"])
+print("Shallow Copy Of Set")
+z = x.copy()
+print(z)
